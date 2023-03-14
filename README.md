@@ -20,10 +20,15 @@
 李炜，博士、讲师。团队年轻力量，毕业于北京大学信息科学技术学院，获得计算机软件与理论专业博士学位，主要研究方向为智能中医、数字人文、自然语言处理。在国际顶级会议 ACL、EMNLP、AAAI、IJCAI、CIKM 等上发表论文了十余篇，以共同作者身份发表的论文《SGM: Sequence Generation Model for Multi-label Classification》获得 COLING2018 最佳论文奖。目前谷歌学术引用量 1400+。
 
 部分论文：
+
 1.Multi-level Gated Recurrent Neural Network for dialog act classification. COLING 2016
+
 2.Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model. ACL 2019
+
 3.Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction. IJCAI 2020
+
 4.Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling. IJCAI 2021
+
 ......
 
 二、专业背景
@@ -35,19 +40,30 @@
 2022 年学术成果及获奖：
 1.MCER: A Multi-domain Dataset for Sentence-Level Chinese Ellipsis Resolution.Jialu Qi,Yanqiu
 Shao,Wei Li,Zizhuo Shen.NLPCC2022
+
 2.Research on Sentence Alignment of Ancient and Modern Chinese based on Reinforcement
 Learning.Kuai Yu,Yanqiu Shao,Wei Li.CCL 2022
+
 3.《二十四史》古代汉语语义依存图库构建.黄恬,邵艳秋,李炜.CCL 2022
+
 4.针对古代经典文献的引用查找问题的数据构建与匹配方法.李炜,邵艳秋,毕梦曦.CCL2022
+
 5.A Study on the Recovery of Omitted Constituents in Chinese Elliptical Sentences.Han
+
 6.Yan,Yiran Zhao,Peipei Sun,Yanqiu Shao.CLSW 2022
+
 7.Semantic Dependency Analysis of Special Sentence Patterns in Ancient Chinese.Xuan
 Chen,Yanqiu Shao.CLSW 2022
+
 8.Research on the Subjective Quantitative Construction “Bu Jiu X(Ma)”.Xuan Chen, Yanqiu
 Shao.CLSW 2022
+
 9.现代汉语省略句数据集构建及判别研究.周姝含,邵艳秋.CLSW 2022
+
 10.半监督跨领域语义依存分析技术研究.毛达展,邵艳秋.《中文信息学报》2022
+
 11.毛达展《基于领域自适应的语义依存分析方法研究》获得北京语言大学校级优秀硕士毕业论文，邵艳秋教授获得优秀导师。 
+
 ......
 
 此外，团队紧跟学术前沿，积极邀请相关领域的专家学者展开深入的学术交流和合作。2022 - 2023 第一学期，邀请了北京大学计算语言学研究所的李素建老师做《Research on Discourse Parsing:from the Dependency View》学术报告，北京大学前沿交叉学科研究院大数据中心的高润东博士做《基于自然语言的图像生成模型》的专题分享，详细介绍了多模态前沿进展。
