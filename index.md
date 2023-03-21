@@ -15,10 +15,9 @@
 ## 一、师资力量
 团队拥有两位老师，具有丰富的教学经验和浓厚的学术研究兴趣，提供优质的学术资源和学术指导。
 
-![Image]（https://github.com/lcclab-blcu/lcclab-blcu.github.io/blob/main/index.files/index434.png）
+![image]（https://github.com/lcclab-blcu/lcclab-blcu.github.io/blob/main/index.files/index434.png）
 邵艳秋，博士、北京语言大学信息科学学院教授、博士生导师。团队核心导师，毕业于哈尔滨工业大学计算机科学与技术学院，获得计算机应用专业博士学位，北京大学计算语言学研究所博士后。中国中文信息学会计算语言学专业委员会委员。主要研究方向为自然语言处理、计算语言学。近年来主持国家自然科学基金、教育部人文社科基金、国家语委“十二五”科研规划重点项目，博士后科学基金、校内重大专项等课题，入选北京语言大学中青年骨干基金支持计划，在国内外会议和期刊上已发表论文 60 余篇。
 
-![Image]（https://github.com/lcclab-blcu/lcclab-blcu.github.io/blob/main/index.files/index665.png）
 李炜，博士、讲师。团队年轻力量，毕业于北京大学信息科学技术学院，获得计算机软件与理论专业博士学位，主要研究方向为智能中医、数字人文、自然语言处理。在国际顶级会议 ACL、EMNLP、AAAI、IJCAI、CIKM 等上发表论文了十余篇，以共同作者身份发表的论文《SGM: Sequence Generation Model for Multi-label Classification》获得 COLING2018 最佳论文奖。目前谷歌学术引用量 1400+。
 
 部分论文：
